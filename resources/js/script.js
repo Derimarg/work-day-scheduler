@@ -1,3 +1,4 @@
+// format of current day
 var currentDay = moment().format('dddd, MMM Do YYYY');
 
 // Display current day
