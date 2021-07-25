@@ -7,7 +7,7 @@ A day scheluder application that allows a user to save events and organize their
 
 ### Features
 
-- This workday scheduler will display hour of the day from 8 AM to 5 PM.
+- This workday scheduler will display hour of the day from 9 AM to 5 PM.
 - At the top of the scheduler will be displayed the current day.
     ```html
     Example: 
