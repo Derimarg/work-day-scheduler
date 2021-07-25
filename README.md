@@ -1,5 +1,5 @@
 # work-day-scheduler
->  link web page  : https://derimarg.github.io/work-day-scheduler/
+>  link web page  :
 
 ## Description
 
