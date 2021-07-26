@@ -43,7 +43,7 @@ A day scheluder application that allows a user to save events and organize their
 
 - Every block will give you the ability of save text inputed.
 - Once the text is saved, it will be stored in their local storage.
-- Will be responsive to desktop and mobile diveces.
+- Will be responsive to desktop and mobile devices
 
     Example:
 
