@@ -52,7 +52,7 @@ A day scheluder application that allows a user to save events and organize their
 
 ### Table of Contents
 
-- [Password Generator](#work-day-scheduler)
+- [Work Day Scheduler](#work-day-scheduler)
 - [Description](#description)
 - [Download](#how-to-download)
 - [License](#license)
